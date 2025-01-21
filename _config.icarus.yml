@@ -235,7 +235,7 @@ widgets:
         # Author's current location
         location: Beijing
         # URL or path to the avatar image
-        avatar: 
+        avatar: https://th.bing.com/th/id/R.56d1483b77ed97fc078d5a30fab53472?rik=z4%2frXaJbMwWdhg&riu=http%3a%2f%2fimages.china.cn%2fsite1000%2f2018-01%2f03%2fd859f3ea-2919-4371-8d80-2d06c13e9175.jpg&ehk=R9rpye9hvBGZUSvjvMOHazys%2boKpHaRIjbHBdzOb8Cg%3d&risl=&pid=ImgRaw&r=0
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
