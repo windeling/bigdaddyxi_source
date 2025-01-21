@@ -105,20 +105,20 @@ head:
 navbar:
     # Navigation menu items
     menu:
-        Home: /
-        Archives: /archives
-        Categories: /categories
-        Tags: /tags
-        About: /about
+        主頁: /
+        歸檔: /archives
+        分類: /categories
+        標籤: /tags
+        關於: /about
     # Links to be shown on the right of the navigation bar
     links:
         Download on GitHub:
             icon: fab fa-github
-            url: https://github.com/ppoffice/hexo-theme-icarus
+            url: https://github.com/bigdaddyxi/bigdaddyxi.github.io
 # Page footer configurations
 footer:
     # Copyright text
-    copyright: © 2019
+    copyright: © 2025
     # Links to be shown on the right of the footer section
     links:
         Creative Commons:
@@ -229,11 +229,11 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Your name
+        author: Bigdaddyxi
         # Author title
-        author_title: Your title
+        author_title: 不要長城要自由
         # Author's current location
-        location: Your location
+        location: Beijing
         # URL or path to the avatar image
         avatar: 
         # Whether show the rounded avatar image
@@ -246,16 +246,14 @@ widgets:
         social_links:
             Github:
                 icon: fab fa-github
-                url: https://github.com/ppoffice
+                url: https://github.com/bigdaddyxi
             Facebook:
                 icon: fab fa-facebook
-                url: https://facebook.com
+                url: https://www.facebook.com/share/15Yfu3TPkC/?mibextid=wwXIfr
             Twitter:
                 icon: fab fa-twitter
-                url: https://twitter.com
-            Dribbble:
-                icon: fab fa-dribbble
-                url: https://dribbble.com
+                url: https://x.com/bigdaddyxi1989?s=21
+            
             RSS:
                 icon: fas fa-rss
                 url: /
