@@ -101,6 +101,6 @@ theme: icarus
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  - type: git
-    repository:
-      github: https://${{CITOKEN}}@github.com/bigdaddyxi/bigdaddyxi.github.io.git,main
+  type: git
+  repository: git@github.com:bigdaddyxi/bigdaddyxi.github.io.git
+  branch: main
