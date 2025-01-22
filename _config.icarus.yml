@@ -307,7 +307,7 @@ widgets:
     -
         # Where should the widget be placed, left sidebar or right sidebar
         position: left
-        type: subscribe_email
+        type: false
         # Hint text under the email input
         description: 
         # Feedburner ID
@@ -325,7 +325,7 @@ widgets:
     -
         # Where should the widget be placed, left sidebar or right sidebar
         position: left
-        type: followit
+        type: false
         # Hint text under the email input
         description: 
         # Subscription form action URL
